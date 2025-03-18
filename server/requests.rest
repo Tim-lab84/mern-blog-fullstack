@@ -1,0 +1,9 @@
+
+POST http://127.0.0.1:3000/create-blog
+
+content-type: application/json
+
+blogName=this
+# {
+#     "blogName" : "this is a test",
+# }
