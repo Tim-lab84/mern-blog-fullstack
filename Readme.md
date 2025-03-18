@@ -18,7 +18,7 @@ Welcome to **React Blog**, a blog application built with React that allows users
 - **Editor**: Editor.js (Rich Text Editor)
 - **State Management**: React Context API
 - **Styling**: Tailwind CSS
-- **Backend**: Node.js with Express (Assumed based on project setup)
+- **Backend**: Node.js with Express
 
 ## Installation
 
